@@ -27,7 +27,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Collect recent IOCs
-        run: python -m swiftioc --ci-safe --window-hours 48 --out-dir public
+        run: python -m swiftioc --config test.yml --ci-safe --window-hours 48 --out-dir public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
