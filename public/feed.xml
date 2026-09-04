@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+  <title>SwiftIOC — Newest High-Confidence IOCs</title>
+  <link>https://github.com/PKHarsimran/SwiftIOC-Automated-Threat-Intelligence-Collector</link>
+  <description>Freshest scored, cross-source-corroborated indicators of compromise.</description>
+  <lastBuildDate>Fri, 04 Sep 2026 09:13:56 +0000</lastBuildDate>
+    <item>
+      <title>[68] ipv4: 102[.]220[.]160[.]124</title>
+      <description>Score 68, confidence medium, sources: et_compromised, ipsum_level5, tags: aggregated,blocklist,compromised,emerging-threats,ipsum,multi-list</description>
+      <guid isPermaLink="false">60331954-5da3-5ce5-b1be-a409586efe86</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 102[.]220[.]160[.]38</title>
+      <description>Score 68, confidence medium, sources: et_compromised, ipsum_level5, tags: aggregated,blocklist,compromised,emerging-threats,ipsum,multi-list</description>
+      <guid isPermaLink="false">d3f1eb90-dc21-5bbe-ac15-da730b5e3dcc</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 103[.]205[.]107[.]170</title>
+      <description>Score 68, confidence medium, sources: et_compromised, ipsum_level5, tags: aggregated,blocklist,compromised,emerging-threats,ipsum,multi-list</description>
+      <guid isPermaLink="false">1a93aaae-f0f4-51e1-b760-c77dd434cc0f</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 104[.]234[.]138[.]60</title>
+      <description>Score 68, confidence medium, sources: et_compromised, ipsum_level5, tags: aggregated,blocklist,compromised,emerging-threats,ipsum,multi-list</description>
+      <guid isPermaLink="false">2bf05680-af5f-560b-9e97-7199f57638ca</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 109[.]105[.]210[.]62</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">d2e459cf-e293-5c06-bd69-b248b0656ed2</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 109[.]105[.]210[.]64</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">b69f588a-1e98-5e8c-97b4-bbd844268fa7</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 139[.]59[.]152[.]154</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">37b6d086-dadd-5163-9df5-9386a43379bf</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 147[.]185[.]132[.]12</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">35930a26-c349-5caf-a5a3-fd724dcfa8c4</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 147[.]185[.]132[.]138</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">9c76cdd5-cebd-5bc3-9393-99cae9c46c3e</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 147[.]185[.]132[.]153</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">52cf2af1-cecc-57f8-9b16-40f541617fa2</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 147[.]185[.]132[.]45</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">ca6b54f8-7571-561f-8231-224023bc749b</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 147[.]185[.]132[.]75</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">0bc42ba6-a137-54a1-ab65-6524cc0403ab</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 147[.]185[.]132[.]79</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">9ab60660-5194-543f-9059-093c964c5a5d</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 157[.]245[.]217[.]43</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">506d405b-b9a8-5730-b2aa-669f40e28d61</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 160[.]119[.]76[.]10</title>
+      <description>Score 68, confidence medium, sources: et_compromised, ipsum_level5, tags: aggregated,blocklist,compromised,emerging-threats,ipsum,multi-list</description>
+      <guid isPermaLink="false">2e571c72-8159-536b-9c3b-4fd9dd003964</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 161[.]35[.]219[.]97</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">08c6bafd-5c9c-5d64-810b-309bd0ad4738</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 165[.]227[.]152[.]19</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">937659b5-4ad3-563d-8c45-fd824d6d886a</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 172[.]105[.]128[.]11</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">f8fda089-81eb-5dce-9587-bfb3ddf718e1</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 172[.]236[.]228[.]115</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">83f5f556-c4f3-5f35-97ae-8fc0300a221e</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 172[.]236[.]228[.]202</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">a7ffbefc-2fdf-585d-aa1a-3053e50c4004</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 172[.]236[.]228[.]227</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">eeb2074a-0865-5a78-9d25-3913ed81f0eb</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 172[.]94[.]9[.]193</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">da20ac43-8426-59d2-8a36-6003ffbedb64</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 180[.]76[.]235[.]175</title>
+      <description>Score 68, confidence medium, sources: et_compromised, ipsum_level5, tags: aggregated,blocklist,compromised,emerging-threats,ipsum,multi-list</description>
+      <guid isPermaLink="false">c737ca8f-8bbe-5b14-ad99-47415a3478e4</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 183[.]103[.]13[.]130</title>
+      <description>Score 68, confidence medium, sources: et_compromised, ipsum_level5, tags: aggregated,blocklist,compromised,emerging-threats,ipsum,multi-list</description>
+      <guid isPermaLink="false">df9e7539-1aaa-5d0f-b152-6c483eb56f12</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 184[.]105[.]247[.]196</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">1924c5d8-c402-51bb-8f5d-2f00d22d4c75</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 185[.]107[.]80[.]93</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">8ad0d836-583b-5708-9a7d-02788f56b18d</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 185[.]242[.]226[.]17</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">45a857b1-6c40-5cf0-a46d-dd170e5db710</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 185[.]93[.]89[.]99</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">df707dff-a7ca-5b14-9c7e-9c33637fde2e</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 192[.]155[.]90[.]118</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">2859571b-9189-52da-9ac7-97a90084745b</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 192[.]248[.]150[.]180</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">fe05426d-f508-59e8-82ab-245eccf7be91</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 195[.]178[.]110[.]70</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">a222bcd2-a35f-5b36-b5ab-a7cbea6bdd1d</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 198[.]235[.]24[.]222</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">addaead4-48e9-55ae-ba41-f1803e05e981</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 198[.]235[.]24[.]56</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">2c504c8f-5061-5e1e-bd9f-784686b8a0b1</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 198[.]235[.]24[.]66</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">30a1bdbb-3841-59ac-8af7-4da6579811d3</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 198[.]235[.]24[.]88</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">a9310161-ded8-5b94-8342-4063387a19bf</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 199[.]45[.]154[.]126</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">ca8963c5-df17-5c2c-aab5-bd2dc0067d4c</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 205[.]210[.]31[.]109</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">44f078c4-6471-5db5-86b7-04d5b1e5ea74</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 205[.]210[.]31[.]162</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">bf0a317e-ef92-5b27-9119-f40815be2dfb</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 205[.]210[.]31[.]167</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">050813fb-991d-5743-a85a-490a6c19b0b9</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 205[.]210[.]31[.]174</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">9d625194-9976-51a6-bd3f-8de3fdc64ca7</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 205[.]210[.]31[.]200</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">74524048-aa5e-5419-9415-2bb68b2dd407</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 205[.]210[.]31[.]213</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">90a880b6-5e39-5c6d-9289-16e82fcd703b</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 205[.]210[.]31[.]220</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">f2aeeb54-73c4-5995-b903-13e3d59a37d8</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 205[.]210[.]31[.]225</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">08dc9c2c-ed5d-598f-a391-2f761a6d63e0</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 205[.]210[.]31[.]231</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">c227a14b-a202-516c-9ede-110322cd6f29</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 205[.]210[.]31[.]234</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">11a3a8eb-93c0-517a-9639-6661ea6139da</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 205[.]210[.]31[.]244</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">51f7780e-9151-5b8d-b6a5-50b83c4bf9dc</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 205[.]210[.]31[.]37</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">f820355d-b25a-5068-bc55-975d9f307fd6</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 205[.]210[.]31[.]54</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">92d87826-3b00-5ef3-a526-cf8f76371eca</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[68] ipv4: 205[.]210[.]31[.]84</title>
+      <description>Score 68, confidence medium, sources: binarydefense_banlist, ipsum_level5, tags: aggregated,binarydefense,blocklist,ipsum,multi-list,scanner</description>
+      <guid isPermaLink="false">d8fa70d3-d920-5fb9-9564-638d101cadd6</guid>
+      <pubDate>Fri, 04 Sep 2026 09:13:47 +0000</pubDate>
+    </item>
+</channel></rss>
