@@ -22,11 +22,6 @@ apis:
     url: https://urlhaus.abuse.ch/downloads/csv_recent/
     reference: https://urlhaus.abuse.ch/
 
-  - name: malwarebazaar_recent
-    kind: csv
-    parse: malwarebazaar
-    url: https://bazaar.abuse.ch/export/csv/recent/
-    reference: https://bazaar.abuse.ch/
 
   - name: threatfox_export_json
     kind: json
@@ -46,18 +41,6 @@ apis:
     url: https://sslbl.abuse.ch/blacklist/ja3_fingerprints.csv
     reference: https://sslbl.abuse.ch/blacklist/
 
-  # --- Phishing Feeds ---
-  - name: openphish_feed
-    kind: csv
-    parse: openphish
-    url: https://openphish.com/feed.txt
-    reference: https://openphish.com/
-
-  - name: spamhaus_drop
-    kind: txt
-    parse: spamhaus_drop
-    url: https://www.spamhaus.org/drop/drop.txt
-    reference: https://www.spamhaus.org/blocklists/do-not-route-or-peer/
 
   # SANS ISC / DShield's top-attacking netblocks, aggregated from their own
   # distributed sensor network — independent of every abuse.ch/CINS/IPsum
